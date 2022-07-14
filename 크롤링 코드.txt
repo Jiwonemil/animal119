@@ -1,4 +1,4 @@
-import requests
+import requestsㅇ
 from bs4 import BeautifulSoup
 
 headers = {
