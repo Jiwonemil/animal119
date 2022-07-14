@@ -1,4 +1,4 @@
-import requestsㅇㅇㅇㅇㅇㅇㅇㅇㅇ
+import requestsㅇㅇㅇㅇㅇㅇㅇㅇㅇ1111111
 from bs4 import BeautifulSoup
 
 headers = {
